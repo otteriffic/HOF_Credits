@@ -3,18 +3,10 @@ HOF_Credits
 
 This is the repository for the Gamers Hands of Fate Credit updates
 
-All updates are being posted in the Kickstarter Backers and Extras files. 
+All updates submitted have been posted in the Kickstarter Backers and Extras files. 
 
-If you see an issue with your name or your name is missing or in the wrong location please use the new issues link to the right and submit a new issue.
+These lists are in alphabetical order by entry, not last name. Longer entries will most likely be listed after the others in the final credits to meet formatting needs.
 
-We need the following info:
-
-1: What file (Kickstarter Backers or Extras)
-2: Misspelled entry (if applicable)
-3: Proper spelling as you would like to see it
-
-We will try to accomodate everyone as best as we can.
-
-Thank you in advance!
+Thank you for your support!
 
 ~Zombie Orpheus Entertainment
